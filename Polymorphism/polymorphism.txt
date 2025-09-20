@@ -1,0 +1,27 @@
+Polymorphism:
+
+Polymorphism is the ability of objects to take on different forms or behave in different
+ways depending on the context in which they are used;
+
+>  Compile Time Polymorphism
+>  Run Time Polymorphism
+
+
+Compile Time Polymorphism:
+
+1. Constructor overloading
+2. Function overloading
+
+
+Run Time Polymorphism:
+
+1.  Function overiding: Parent and child both contains the same function with
+    diffrent implementation, The parent class function is said to be overridden.
+
+2.  vertual function: virtual function is a member function that you
+    expect to be redefined in derived(child) classes.
+
+    > virtual functions are dynamic in nature
+    > defined by the keyword "virtual" inside a base class and are always
+      declared with a base class and overridden in a child classes.
+    > A virtual function is called during Runtime

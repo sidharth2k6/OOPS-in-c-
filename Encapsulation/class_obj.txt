@@ -1,0 +1,27 @@
+.............Classes & objects..............
+
+> objects are entities in the real world
+> class is like a blueprint of these entities
+
+syntax:
+    class Teacher{
+        /*  properties
+            methodes
+        */
+    };
+
+    Teacher t1; // create objects
+
+
+................Access modifiers.............
+(by default private)
+
+1.private:  data & methodes accessible inside class
+2.public:   data & methodes accessible to everyone
+3.protected: data & methodes accessible inside class & to its derived class
+
+
+...............Encapsulation.................
+
+Encapsulation is Wrapping-up of data and member
+functions in a single unit called class.

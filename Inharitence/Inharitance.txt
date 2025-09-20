@@ -1,0 +1,18 @@
+Inharitance:
+
+Inharitence: when properties & member functions of
+base(parent) class are passed on to the derived(child) class.
+it is used for code reusebility.
+
+...................................Mode of inharitance...............................
+base class/derived class >      private         protected       public
+    v
+private                         Not Inharit     Not Inharit     Not Inharit
+protected                       private         protected       protected
+public                          private         protected       public
+
+...................................Types of inharitance...............................
+1. Multilevel inharitance
+2. Multiple inharitance
+3. Hierarchial inharitance
+4. Hybride inharitance

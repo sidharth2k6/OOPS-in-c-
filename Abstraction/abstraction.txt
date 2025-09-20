@@ -1,0 +1,9 @@
+.................Abstraction.................
+
+Hiding all unnecessary details & showing only the important parts
+
+using Abstraction Classes
+
+> Abstract Classes are used to provide a base class from which other classes can be dericed.
+> They cannot be instantiated(objects) and are meant to be inherited.
+> Abstract classes are typically used to define an interface for derived classes.
